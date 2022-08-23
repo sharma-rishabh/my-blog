@@ -1,0 +1,21 @@
+{
+  "name": "quickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hugo server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "hugo server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharma-rishabh/my-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharma-rishabh/my-blog/issues"
+  },
+  "homepage": "https://github.com/sharma-rishabh/my-blog#readme"
+}
