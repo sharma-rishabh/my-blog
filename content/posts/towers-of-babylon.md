@@ -21,3 +21,5 @@ nearer to Yahweh what would there reaction be once they get to know the truth.
 The tower was described by Chiang beautifully he really ensures that the reader 
 feels the enormity of it. And the environment was described through feelings of 
 Hellalium as he ascending the tower.
+
+This was my review for Towers of Babylon.
